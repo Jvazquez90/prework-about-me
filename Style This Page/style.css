@@ -1,0 +1,55 @@
+h1 {
+    text-align: center;
+}
+
+    #colorred {
+        color: red;
+    }
+    #colorblue {
+        color: blue;
+    }
+    #colorgreen {
+        color: green;   
+    } 
+
+    #BIG {
+        font-size: x-large;
+    }
+    #tiny {
+        font-size: xx-small;
+    }
+    
+    #textcentered {
+        text-align: center;
+    }
+
+    #makeitbold {
+        font-weight: bold;
+    }
+
+    #fontfamily{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+    #mutipleattributes{
+        color: orange;
+        font-weight: bold;
+        font-size: x-large;
+    }
+
+    .styledFont {
+        font-style: italic;
+    }
+
+    #styledImage{
+        border: black;
+        border-style: solid;
+        border-width: thick;
+        font-style: italic;
+       
+    }
+
+
+
+     
+
