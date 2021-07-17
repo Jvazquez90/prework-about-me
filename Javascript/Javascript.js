@@ -1,4 +1,4 @@
-<script type="text/javascript">
+<script type="text/javascript" src="javascript.js"></script>
 
         document.getElementById("button1").addEventListener("click", function(){
 
@@ -25,7 +25,7 @@
             document.getElementById("box").style.opacity ="1";
 
 
-});
+        });
 
-    </script>
+</script>
 
